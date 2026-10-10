@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LLMEvaluation</string>
+
+    <string-array name="models">
+        <item>Gemini</item>
+        <item>Groq - Llama 3</item>
+        <item>OpenAI GPT</item>
+    </string-array>
+</resources>
